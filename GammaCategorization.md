@@ -1,0 +1,11 @@
+- Design Patterns are typically split into three categories
+- Creational Patterns
+  - Deal with creation of objects.
+  - Explicit(constructor) vs implicit(DI, reflection etc)
+  - Wholesale vs piecewise
+- Structural Patterns
+  - Concerned with the structure(eg class members)
+  - Many patterns are wrappers that mimic the underlying class interface.
+  - Stress the importance of a good API design.
+- Behavioral Patterns
+  - They are different; central theme

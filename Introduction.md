@@ -1,0 +1,33 @@
+# Introduction to Design Patterns
+
+- Design Pattern are common architectural approaches.
+- Internalized in some programming languages. ie -> Decoraters in python.
+- 3 Categories of Design Patterns ->
+  - Creational 
+    - Builder
+    - Factories
+      - Abstract Factory
+      - Factory Method
+    - Prototype
+    - singleton
+  - structural
+    - Adapter
+    - Bridge
+    - Composite
+    - Decorator
+    - Facade
+    - Flyweight
+    - Proxy
+  - Behavioral
+    - Chain of Responsibility
+    - Command
+    - Interpreter
+    - Iterator
+    - Mediator
+    - Memento
+    - Observer
+    - state
+    - statergy
+    - Template Method
+    - Visitor
+  - 
